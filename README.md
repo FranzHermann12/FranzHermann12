@@ -1,4 +1,4 @@
-#Welcome 👋
+##Welcome 👋
 # 💫 About Me:
 I am Sai Satyam Jena or Franz_Hermann1,I am a 14 year old student that is interested in :-  <br>🖥️Computers(both hardware and software)<br>💡Mathematics<br> 🧲Physics<br> 🛠️Electronics<br>🏛️Philosophy<br>🧠Psychology<br>📜History<br>♟️Chess<br>✨Teaching & Mentoring
 
