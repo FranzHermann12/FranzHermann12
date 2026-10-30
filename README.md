@@ -1,4 +1,4 @@
-Welcome 👋
+#Welcome 👋
 # 💫 About Me:
 I am Sai Satyam Jena or Franz_Hermann1,I am a 14 year old student that is interested in :-  <br>🖥️Computers(both hardware and software)<br>💡Mathematics<br> 🧲Physics<br> 🛠️Electronics<br>🏛️Philosophy<br>🧠Psychology<br>📜History<br>♟️Chess<br>✨Teaching & Mentoring
 
@@ -12,8 +12,5 @@ I am Sai Satyam Jena or Franz_Hermann1,I am a 14 year old student that is intere
 ![](https://github-readme-stats.shion.dev/api?username=FranzHermann12&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=FranzHermann12&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=FranzHermann12&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
----
-[![](https://komarev.com/ghpvc/?username=FranzHermann12&icon=0&color=4)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
