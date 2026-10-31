@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am Sai Satyam Jena or Franz_Hermann1,I am a 14 year old student engineer and a researcher and most importantly, a weird logo that i stole i mean borrow it from r/Thinkpad :) because i like thinkpads. I am interested in :-  <br>🖥️Computers(both hardware and software)<br>💡Mathematics<br> 🧲Physics<br> 🛠️Electronics<br>🏛️Philosophy<br>🧠Psychology<br>📜History<br>♟️Chess<br>✨Teaching & Mentoring
+I am Sai Satyam Jena or Franz_Hermann1,I am a 14 year old student engineer and a researcher and most importantly, a weird logo that i stole i mean borrow it from r/Thinkpad :) because i like thinkpads :), I am interested in :-  <br>🖥️Computers(both hardware and software)<br>💡Mathematics<br> 🧲Physics<br> 🛠️Electronics<br>🏛️Philosophy<br>🧠Psychology<br>📜History<br>♟️Chess<br>✨Teaching & Mentoring
 
 
 ## 🌐 Socials:
