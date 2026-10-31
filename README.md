@@ -11,5 +11,3 @@ I am Sai Satyam Jena or Franz_Hermann1,I am a 14 year old student engineer and a
 ![](https://github-readme-stats.shion.dev/api?username=FranzHermann12&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=FranzHermann12&theme=transparent&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=FranzHermann12&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
----
