@@ -14,7 +14,7 @@
   * Work In Progress 🚧
 * 💻 [**8-bit-Computer**](hhttps://github.com/FranzHermann12/8-bit-Computer)
   * Work In Progress 🚧
-* 🧠 [**3-D-Physics-Engine**](https://github.com/FranzHermann12/3-D-Physics-Engine)
+* ⚛️ [**3-D-Physics-Engine**](https://github.com/FranzHermann12/3-D-Physics-Engine)
   * Work In Progress 🚧
 * ⚛️ [**2-D-Physics-Engine**](https://github.com/FranzHermann12/2-D-Physics-Engine)
   * Work In Progress 🚧
