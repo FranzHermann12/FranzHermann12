@@ -1,16 +1,24 @@
-# 💫 About Me:
-I am Sai Satyam Jena or Franz_Hermann1, I am a 14 year old student engineer and a researcher and most importantly, a weird thinkpad nub logo that i stole i mean borrow it from r/Thinkpad :) because i like thinkpads :), I am interested in :-<br>🖥️Computers(both hardware and software)<br>💡Mathematics<br>🧲Physics<br>🛠️Electrical Engineering<br>🏛️Philosophy<br>🧠Psychology<br>📜History<br>♟️Chess<br>✨Teaching & Mentoring
+<a href="">
+  <img align="center" src="https://github-readme-stats-seven-black-76.vercel.app/api?username=FranzHermann12&theme=github_dark&hide=contribs&show_icons=true" />
+</a>
+<a href="">
+  <img align="center" src="https://github-readme-stats-seven-black-76.vercel.app/api/top-langs/?username=FranzHermann12&theme=github_dark&layout=compact" />
+</a>
+
+<br/>
+<br/>
 
 
-## 🌐 Socials:
-[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Franz_Hermann12) 
-
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=FranzHermann12&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=FranzHermann12&theme=transparent&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=FranzHermann12&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-# 🗂️Projects:
-
+## Here Are Some Projects 🏗
+* 💽 [**16-bit-computer**](https://github.com/FranzHermann12/16-bit-computer)
+  * Work In Progress 🚧
+* 💻 [**8-bit-Computer**](hhttps://github.com/FranzHermann12/8-bit-Computer)
+  * Work In Progress 🚧
+* 🧠 [**3-D-Physics-Engine**](https://github.com/FranzHermann12/3-D-Physics-Engine)
+  * Work In Progress 🚧
+* 🌉 [**2-D-Physics-Engine**](https://github.com/FranzHermann12/2-D-Physics-Engine)
+  * Work In Progress 🚧
+* 🔐 [**Password-Generator**](https://github.com/FranzHermann12/Password-Generator)
+  * A custom and advance Password-Generator made by me by using python 
+* 🔢 [**UniversalConverter**](https://github.com/FranzHermann12/UniversalConverter)
+  * A advance unit converter software for Engineers made in python
