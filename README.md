@@ -1,12 +1,13 @@
 <a href="https://github.com/FranzHermann12">
-  <img align="center" src="https://github-readme-stats-seven-black-76.vercel.app/api?username=FranzHermann12&theme=github_dark&hide=contribs&show_icons=true&bg_color=00000000&hide_border=true" />
+  <img align="center" src="https://github-readme-stats-seven-black-76.vercel.app/api?username=FranzHermann12&theme=github_dark&hide=contribs&show_icons=true&bg_color=00000000&hide_border=false" />
 </a>
 <a href="https://github.com/FranzHermann12">
-  <img align="center" src="https://github-readme-stats-seven-black-76.vercel.app/api/top-langs/?username=FranzHermann12&theme=github_dark&layout=compact&bg_color=00000000&hide_border=true" />
+  <img align="center" src="https://github-readme-stats-seven-black-76.vercel.app/api/top-langs/?username=FranzHermann12&theme=github_dark&layout=compact&bg_color=00000000&hide_border=false" />
 </a>
 
 <br/>
 <br/>
+
 
 
 
