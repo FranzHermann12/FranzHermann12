@@ -12,7 +12,7 @@
 
 
 ## Here Are Some Projects 🏗
-* 💻 [**16-bit-computer**](https://github.com/FranzHermann12/16-bit-computer)
+* 💻 [**16-bit computer**](https://github.com/FranzHermann12/16-bit-computer)
   * Work In Progress 🚧
 * 💻 [**8-bit-Computer**](hhttps://github.com/FranzHermann12/8-bit-Computer)
   * Work In Progress 🚧
