@@ -14,7 +14,7 @@
 ## Here Are Some Projects 🏗
 * 💻 [**16-bit computer**](https://github.com/FranzHermann12/16-bit-computer)
   * Work In Progress 🚧
-* 💻 [**8-bit Computer**](hhttps://github.com/FranzHermann12/8-bit-Computer)
+* 💻 [**8-bit Computer**](https://github.com/FranzHermann12/8-bit-Computer)
   * Work In Progress 🚧
 * 🧲 [**3D-Physics Engine**](https://github.com/FranzHermann12/3-D-Physics-Engine)
   * Work In Progress 🚧
