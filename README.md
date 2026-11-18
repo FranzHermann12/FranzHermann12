@@ -1,5 +1,5 @@
 <a href="">
-  <img align="center" src="https://github-readme-stats-seven-black-76.vercel.app/api?username=FranzHermann12&theme=github_dark&hide=contribs&show_icons=true" />
+  <img align="center" src="https://github-readme-stats-seven-black-76.vercel.app/api?username=FranzHermann12&theme=github_transparent&hide=contribs&show_icons=true" />
 </a>
 <a href="">
   <img align="center" src="https://github-readme-stats-seven-black-76.vercel.app/api/top-langs/?username=FranzHermann12&theme=github_dark&layout=compact" />
