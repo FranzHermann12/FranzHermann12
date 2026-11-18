@@ -18,7 +18,7 @@
   * Work In Progress 🚧
 * 🧲 [**3D-Physics Engine**](https://github.com/FranzHermann12/3-D-Physics-Engine)
   * Work In Progress 🚧
-* ⚛️ [**2-D-Physics-Engine**](https://github.com/FranzHermann12/2-D-Physics-Engine)
+* ⚛️ [**2D-Physics Engine**](https://github.com/FranzHermann12/2-D-Physics-Engine)
   * Work In Progress 🚧
 * 🔐 [**Password-Generator**](https://github.com/FranzHermann12/Password-Generator) $\textsf{\color{orange} (no longer in development)}$
   * A custom and advance Password-Generator made by me by using python 
