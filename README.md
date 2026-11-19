@@ -1,13 +1,12 @@
-<a href="https://github.com/FranzHermann12">
-  <img align="center" src="https://github-readme-stats-seven-black-76.vercel.app/api?username=FranzHermann12&theme=dark&hide=contribs&show_icons=true&bg_color=00000000&hide_border=false&title_color=007bff&text_color=458b91&icon_color=007bff" />
+<a href="">
+  <img align="center" src="https://github-readme-stats-seven-black-76.vercel.app/api?username=FranzHermann12&theme=github_dark&hide=contribs&show_icons=true" />
 </a>
-<a href="https://github.com/FranzHermann12">
-  <img align="center" src="https://github-readme-stats-seven-black-76.vercel.app/api/top-langs/?username=FranzHermann12&theme=dark&layout=compact&bg_color=00000000&hide_border=false&title_color=007bff&text_color=458b91" />
+<a href="">
+  <img align="center" src="https://github-readme-stats-seven-black-76.vercel.app/api/top-langs/?username=FranzHermann12&theme=github_dark&layout=compact" />
 </a>
 
 <br/>
 <br/>
-
 
 
 ## Here Are Some Projects 🏗
