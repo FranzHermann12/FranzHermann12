@@ -1,13 +1,17 @@
-<a href="https://github.com/FranzHermann12">
-  <img align="center" src="https://github-readme-stats-seven-black-76.vercel.app/api?username=FranzHermann12&theme=github_dark&hide=contribs&show_icons=true&bg_color=00000000&hide_border=false" />
-</a>
-<a href="https://github.com/FranzHermann12">
-  <img align="center" src="https://github-readme-stats-seven-black-76.vercel.app/api/top-langs/?username=FranzHermann12&theme=github_dark&layout=compact&bg_color=00000000&hide_border=false" />
-</a>
-
-<br/>
-<br/>
-
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/FranzHermann12">
+        <img src="https://github-readme-stats-seven-black-76.vercel.app/api?username=FranzHermann12&theme=github_dark&hide=contribs&show_icons=true&bg_color=00000000&hide_border=false&border_color=ffffff&title_color=58a6ff&text_color=c9d1d9&icon_color=1f6feb&card_width=467" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/FranzHermann12">
+        <img src="https://github-readme-stats-seven-black-76.vercel.app/api/top-langs/?username=FranzHermann12&theme=github_dark&layout=compact&bg_color=00000000&hide_border=false&border_color=ffffff&title_color=58a6ff&text_color=c9d1d9&card_width=300" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 
 
